@@ -1,1 +1,1 @@
-ESTE ES UN REPOSITORIO PARA TRABAJAR EN LA MATERIA DE SINTAXIS Y SEMANTICA DE LOS LENGUAJES
+Repositorio de la materia Sintaxis y Semantica de los Lenguajes
